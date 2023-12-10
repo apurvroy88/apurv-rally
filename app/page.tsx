@@ -10,6 +10,11 @@ export default function Home() {
           <code className={styles.code}>app/page.tsx</code>
         </p>
       </div>
+      <div>
+        <p>
+          Hello Apurv!
+        </p>
+      </div>
 
       <div className={styles.center}>
         <Image
